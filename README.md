@@ -1,4 +1,3 @@
-<div align="center">
 # 🩺 Healthcare Readmission Risk Predictor
 
 A Machine Learning-powered web application that predicts whether a patient is likely to be readmitted within 30 days after hospital discharge. The application leverages a Random Forest classifier and provides an interactive Streamlit dashboard for healthcare analytics and clinical decision support.
