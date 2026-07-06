@@ -139,7 +139,7 @@ healthcare-readmission-risk-predictor/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/healthcare-readmission-risk-predictor.git
+git clone https://github.com/kbasani11/healthcare-readmission-risk-predictor.git
 ```
 
 Navigate to the project directory
